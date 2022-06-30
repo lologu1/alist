@@ -11,12 +11,12 @@ $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
     // 头像链接地址
-    headimg = "https://file.xhto.cn/xpretty/images/himg.jpg",
+    headimg = "https://cdn.jsdelivr.net/gh/lologu1/img@master//img202203200222256.ico",
     // 博主铭言句子
-    motto = "不理白驹过隙，不信生死有命！",
+    motto = "生命不息，折腾不止！",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
-    linkname = ["首页", "星环博客"],
-    link = ["/", "https://www.xhto.cn/"],
+    linkname = ["首页", "咯咯孤博客","音乐站","记事本"],
+    link = ["/", "https://www.lologu.ml/","http://music.lologu.ml","https://notes.lologu.ml"],
     code = "";
 
 // 个人信息编写区域+星环博客提供技术支持+ —————— END
